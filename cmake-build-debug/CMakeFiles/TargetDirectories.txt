@@ -1,0 +1,7 @@
+/home/clinux01/Escritorio/taller_trie/cmake-build-debug/CMakeFiles/gtest.dir
+/home/clinux01/Escritorio/taller_trie/cmake-build-debug/CMakeFiles/gtest_main.dir
+/home/clinux01/Escritorio/taller_trie/cmake-build-debug/CMakeFiles/correrTests.dir
+/home/clinux01/Escritorio/taller_trie/cmake-build-debug/CMakeFiles/correrTests_ext.dir
+/home/clinux01/Escritorio/taller_trie/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/home/clinux01/Escritorio/taller_trie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/clinux01/Escritorio/taller_trie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
